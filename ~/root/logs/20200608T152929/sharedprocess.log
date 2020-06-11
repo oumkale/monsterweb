@@ -1,0 +1,3 @@
+[2020-06-08 15:29:33.376] [sharedprocess] [info] main {"machineId":"aaf15c93cd492c5d1fb9717d6807f294e7cd078b4fd8ba6430216cc5ee64ef7e","windowId":2}
+[2020-06-08 15:29:33.412] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/oumkale/react_learn/myreact/~/root/User/snippets'
+[2020-06-08 15:30:13.392] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,8 @@
+[2020-06-09 22:37:34.719] [sharedprocess] [info] main {"machineId":"aaf15c93cd492c5d1fb9717d6807f294e7cd078b4fd8ba6430216cc5ee64ef7e","windowId":2}
+[2020-06-09 22:37:37.282] [sharedprocess] [info] Installing extension: golang.go
+[2020-06-09 22:38:14.835] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-06-09 22:38:17.045] [sharedprocess] [info] Downloaded extension: golang.go /tmp/92ebc297-a482-41f8-9852-f9f429d00465
+[2020-06-09 22:38:20.823] [sharedprocess] [info] Extracted extension to /home/oumkale/.vscode/extensions/.golang.go-0.14.4: golang.go
+[2020-06-09 22:38:20.823] [sharedprocess] [info] Renamed to /home/oumkale/.vscode/extensions/golang.go-0.14.4
+[2020-06-09 22:38:20.826] [sharedprocess] [info] Installation completed. golang.go
+[2020-06-09 22:38:20.979] [sharedprocess] [info] Extensions installed successfully: golang.go

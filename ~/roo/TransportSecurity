@@ -1,0 +1,8 @@
+{
+   "SE7+Gk765m4anEXEr1z6r1vbmryAKYPZ5SnEQG7atOM=": {
+      "expiry": 1623265799.477643,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1591729799.477645
+   }
+}
